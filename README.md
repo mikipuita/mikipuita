@@ -55,11 +55,11 @@
 ## 📘 About Me
 I'm a cybersecurity graduate student passionate about threat intelligence, cloud security, and defensive operations.  
 I'm currently building practical projects like real-time threat dashboards and server infrastructure.  
-My goal is to become proficient in security operations, cloud technologies, and incident response.
+My goal is to become proficient in security operations, cloud technologies, incident response, and the latest AI cybersecurity findings.
 
 **Currently working on:**
 - 🚀 Real-time cyber threat intelligence platform with CVE tracking & geolocation mapping
-- 📚 Learning through HackTheBox and Splunk
+- 📚 Strengthening Python skills through extracurricular learning and industry-relevant projects
 - 🔐 Completing my Masters in Cybersecurity & Privacy
 
 ---
