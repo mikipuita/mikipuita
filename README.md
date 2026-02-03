@@ -3,7 +3,7 @@
   
 # 👋 Hi there! I'm Miguel
 
-### 🔐 Cybersecurity Graduate Student | 💼 Portfolio Management Assistant
+### 🔐 Cybersecurity Graduate Student | 💼 Portfolio Management Support
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completing%20Masters-blue?style=flat-square)
